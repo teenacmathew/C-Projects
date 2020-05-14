@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\bin\Debug\tmFinalExam.exe.config
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\bin\Debug\tmFinalExam.exe
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\bin\Debug\tmFinalExam.pdb
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam_MarkupCompile.cache
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam_MarkupCompile.lref
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.g.resources
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.Properties.Resources.resources
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.exe
+C:\Users\Admin\Desktop\MSD\SEM1\c# LABS\tmFinalExam\tmFinalExam\obj\Debug\tmFinalExam.pdb
