@@ -30,11 +30,11 @@ Every item type has:
  When the Submit option is selected, all the information entered by the user should be used tocreate an object of the appropriate type.All items submitted should be saved to an appropriate collection of your choice.When an item is purchased, its cost including shipping is added to the total which is displayedon the application. The shipping costs should be returned from the appropriate methods.
 
  IO
- When a user selects the Save control, the collection of items currently ordered should be savedto the hard drive in any format. The user must use the save control to save, do not auto saveafter   each   item   purchased. Save the file in the local directory (i.e. the folder that theapplication executable is running from, usually project\bin\Debug).
+ When a user selects the Save control, the collection of items currently ordered should be savedto the hard drive in any format. The user must use the save control to save, do not auto save after each   item   purchased. Save the file in the local directory (i.e. the folder that the application executable is running from, usually project\bin\Debug).
 
- When a user selects the Load control, the collection of items currently ordered should beoverwritten with whatever is in the save file. The total displayed on the GUI should be updatedto reflect the total that was loaded from the file.
+ When a user selects the Load control, the collection of items currently ordered should be overwritten with whatever is in the save file. The total displayed on the GUI should be updatedto reflect the total that was loaded from the file.
 
- When the application is opened, you do not have to auto-load any previously saved files.LINQProvide the option to perform the following searches through
+ When the application is opened, you do not have to auto-load any previously saved files. LINQ Provide the option to perform the following searches through
 
   LINQ:
   - Display the name of the item that has been purchased the most, along with the numberof items purchased. The search should query the current collection in runtime memory,not any saved file. If there is a tie for the most purchased item, display all the itemnames that are tied.
